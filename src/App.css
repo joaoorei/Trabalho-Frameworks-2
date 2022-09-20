@@ -1,0 +1,95 @@
+body{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  
+}
+.cabeçalho{
+  background-color: #2e2e2e;
+  color: white;
+  padding: 8px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+.nn{
+  padding-top: 40px;
+}
+.foto{
+  padding-top: 20px;
+  padding-left: 20px;
+  width: 9.45rem;
+  height: 7rem;
+}
+
+.buscar{
+  background-color: rgb(245, 245, 245);
+  height: 30px;
+  padding-top: 10px;  
+}
+.oda{  
+  color: rgb(210, 105, 30);
+  font-weight: bolder;
+  padding-right: 35rem; 
+  font-size: 20px;
+
+}
+
+.lista{
+  text-align: center;
+  display: flex;
+  padding-left: 30%;
+  flex-direction: column;
+  justify-items: center;
+}
+
+.nome{
+
+  padding-left:  20px;
+  color: #dacb0f;
+  width: 50.75%;
+  margin-left: 20px;
+  padding-top: 15px;
+}
+
+.usuario{
+
+  font-weight: bolder;
+  width: 48%;
+  margin-left: 21px;
+  padding-bottom: 13px; 
+  padding-right: 27px;
+  padding-left: 33px;
+}
+
+.descricao{
+
+  padding-bottom: 10px;
+  padding-right: 30px;
+  width: 50%;
+  padding-left: 30px;
+}
+
+.data{
+  font-weight: bolder;
+  padding-left: 30px;
+  width: 50%;
+  margin-left: 20px;
+  padding-bottom: 10px; 
+  padding-right: 30px;
+}
+
+.palavra{
+  font-weight: bolder;
+  padding-right: 35rem;
+  padding-bottom: 30px;
+}
+
+
+
+.rodape{
+  background-color: rgb(210, 105, 30);
+  color:white;
+  padding: 10px;
+}
