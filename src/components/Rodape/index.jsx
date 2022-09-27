@@ -1,4 +1,4 @@
-export const Rodape = ({}) =>{
+export const Rodape = ({rodape}) =>{
     return(
         <div className = 'rodape'>
             <p>IFMS Dourados - Trabalho de Framewors2</p>

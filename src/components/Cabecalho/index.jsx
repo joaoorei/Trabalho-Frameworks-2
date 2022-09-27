@@ -1,5 +1,5 @@
  import logobca from './img/logobca.png';
-export const Cabecalho = ({}) =>{
+export const Cabecalho = ({cabecalho}) =>{
    
     return(
     <header>

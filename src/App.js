@@ -33,7 +33,6 @@ class App extends Component{
   }
 
   render(){
-    const {busca, odas} = this.state;
 
     return (
       <section className = 'container'>
